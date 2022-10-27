@@ -14,7 +14,7 @@ def updateAdd(lsu):
         if not updated and "<li><a" in line:
             updated = True
             for l in lsu:
-                    html.append(f"{' '*8}<li><a href=" + "'posts/" + f"{''.join(l.split(' '))}" + f"'.txt>{l}</a></li>")
+                    html.append(f"{' '*8}<li><a href=" + "'posts/" + f"{''.join(l.split(' '))}" + f".txt'>{l}</a></li>")
         html.append(line)
     with open("index.html", 'w') as ah:
         ah.write(''.join(f"{line}\n" for line in html))
