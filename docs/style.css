@@ -3,26 +3,26 @@ body {
   }
   
 h1 {
-    color: #ffffff;
+    color: #ffffbb;
   }
 h3 {
-    color: #ffffff;
+    color: #ffffbb;
 }
 
 h5 {
-    color: #ffffff;
+    color: #ffffbb;
 }
 
 li {
-    color: #ffffff;
+    color: #ffffbb;
   }
 
 a {
     text-decoration: none;
-    color: #ffffff;
+    color: #ffffbb;
 }
 
 a::after {
     text-decoration: none;
-    color: #ffffff;
+    color: #ffffbb;
 }
