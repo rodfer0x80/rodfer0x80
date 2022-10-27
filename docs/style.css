@@ -17,10 +17,15 @@ h5 {
     color: #ffffbb;
 }
 
+ul {
+  size: 14px;
+  color: #ffffbb;
+}
+
 li {
     size: 14px;
     color: #ffffbb;
-  }
+}
 
 a {
     size: 14px;
