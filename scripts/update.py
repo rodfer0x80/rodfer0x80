@@ -29,7 +29,6 @@ def updateDel(lsu):
         add = True
         for lu in lsu:
             if str(lu) in line:
-                print("A"*255)
                 add = False
         if add:
             html.append(line)
@@ -42,15 +41,18 @@ def main():
     _ls = os.listdir("posts/")
     ls = list()
     for l in _ls:
-        ls.append(l.split(".")[0])
+        ls.append(l.split(".")[0].strip())
     
     with open("index.html", 'r') as hr:
         _lsi = hr.readlines()
     lsi = list()
     for l in _lsi:
         if "<li>" in l:
-            lsi.append(l.split("posts/")[1].split(".txt")[0])
-
+            a = l.split("posts/")[1].split(".txt")[0].strip()
+            if a[-1] == "'":
+                lsi.append(a[0:-1])
+            else:
+                lsi.append(a)
     update = False
     lsu = list()
     update_add = False
@@ -59,7 +61,8 @@ def main():
     for l in ls:
         if l not in lsi:
             update_add = True
-            lsu.append(l)
+            lsu.append(l.strip())
+
     if update_add:
         updateAdd(lsu)
         sys.stdout.write("[*] Successfully added new entries to index.html\n")
