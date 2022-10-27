@@ -2,7 +2,7 @@ body {
     background-color: #3c3c3c;
     margin-left: 32%;
     margin-top: 8%;
-    color: #b1f790;
+    color: #c1fca6;
 }
 
 h1 {
@@ -18,27 +18,27 @@ h5 {
 
 ul {
   size: 24px;
-  color: #b1f790;
+  color: #c1fca6;
 }
 
 li {
     size: 24px;
-    color: #b1f790;
+    color: #c1fca6;
 }
 
 a {
     size: 24px;
     text-decoration: none;
-    color: #b1f790;
+    color: #c1fca6;
 }
 
 a::after {
     size: 24px;
     text-decoration: none;
-    color: #b1f790;
+    color: #c1fca6;
 }
 a::after {
     size: 24px;
     text-decoration: none;
-    color: #b1f790;
+    color: #c1fca6;
 }
