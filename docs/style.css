@@ -1,7 +1,11 @@
 body {
     background-color: #3c3c3c;
-  }
-  
+}
+
+div {
+  margin-left: 40%;
+  margin-top: 10%;
+}
 h1 {
     color: #ffffbb;
   }
@@ -14,20 +18,23 @@ h5 {
 }
 
 li {
-    size: 150%;
+    size: 14px;
     color: #ffffbb;
   }
 
 a {
+    size: 14px;
     text-decoration: none;
     color: #ffffbb;
 }
 
 a::after {
+    size: 14px;
     text-decoration: none;
     color: #ffffbb;
 }
 a::after {
+    size: 14px;
     text-decoration: none;
     color: #ffffbb;
 }
