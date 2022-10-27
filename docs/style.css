@@ -2,10 +2,11 @@ body {
     background-color: #3c3c3c;
 }
 
-div {
+.root {
   margin-left: 40%;
   margin-top: 10%;
 }
+
 h1 {
     color: #ffffbb;
   }
