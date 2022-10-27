@@ -1,9 +1,9 @@
 .PHONY: update
-update: # Build python venv with deps
+update: # Update index.html with new data from posts
 	scripts/update.py
 
 .PHONY: run
-run: # Run main script
+run: # Run locally to port 8080
 	scripts/run.sh
 
 
