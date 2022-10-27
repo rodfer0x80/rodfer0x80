@@ -16,28 +16,28 @@ h5 {
 }
 
 ul {
-  size: 20px;
+  size: 24px;
   color: #ffffbb;
 }
 
 li {
-    size: 20px;
+    size: 24px;
     color: #ffffbb;
 }
 
 a {
-    size: 20px;
+    size: 24px;
     text-decoration: none;
     color: #ffffbb;
 }
 
 a::after {
-    size: 20px;
+    size: 24px;
     text-decoration: none;
     color: #ffffbb;
 }
 a::after {
-    size: 20px;
+    size: 24px;
     text-decoration: none;
     color: #ffffbb;
 }
