@@ -13,26 +13,21 @@ h5 {
     color: #ffffbb;
 }
 
-.red {
-  color: #eb0f08;
-}
-
 li {
     size: 150%;
-    color: #eb0f08;
+    color: #ffffbb;
   }
 
 a {
     text-decoration: none;
-    color: #eb0f08;
+    color: #ffffbb;
 }
 
 a::after {
     text-decoration: none;
-    color: #eb0f08;
+    color: #ffffbb;
 }
-
-a::before {
-  text-decoration: none;
-  color: #eb0f08;
+a::after {
+    text-decoration: none;
+    color: #ffffbb;
 }
