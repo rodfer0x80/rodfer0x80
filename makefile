@@ -4,6 +4,6 @@ update: # Update index.html with new data from posts
 
 .PHONY: run
 run: # Run locally to port 8080
-	scripts/run.sh
+	scripts/run.py
 
 
