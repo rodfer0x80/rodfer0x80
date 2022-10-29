@@ -1,4 +1,0 @@
-<<[]>> refactor update.py
-    [] on add entry add a br tag to previous entry and then add new entries
-        leaving the last one without a br tag
-    [] on del entry del br tag from previous entry and then del the entries
