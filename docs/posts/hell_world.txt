@@ -13,6 +13,7 @@
 
 
 1. What is this shit? Why is this a txt file with random ascii art?
+
 > I am hosting this for free on github pages using only static files.
     It seemed like a nice way to host a blog, just some html and css
     for the frontpage and all the posts in txt format,
@@ -28,6 +29,7 @@
 
 
 2. More exactly, what is this blog post about?
+
 > Oh right, nothing, this is just a test post to go with my code, 
     just go read some other post.
 
