@@ -8,7 +8,10 @@
  ░  ░░ ░   ░     ░ ░     ░ ░        ░   ░  ░ ░ ░ ▒    ░░   ░   ░ ░    ░ ░  ░ 
  ░  ░  ░   ░  ░    ░  ░    ░  ░       ░        ░ ░     ░         ░  ░   ░    
                                                                       ░     
-                                                                      
+
+
+
+
 1. What is this shit? Why is this a txt file with random ascii art?
 > I am hosting this for free on github pages using only static files.
     It seemed like a nice way to host a blog, just some html and css
@@ -23,9 +26,12 @@
     other shit too, who knows. You are free to use any of
     my code to build your own corner of the internet.
 
+
 2. More exactly, what is this blog post about?
 > Oh right, nothing, this is just a test post to go with my code, 
     just go read some other post.
+
+
 
 
 echo 'rodfer0x80' >> /dev/who?
