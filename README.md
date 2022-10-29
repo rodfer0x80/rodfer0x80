@@ -1,2 +1,2 @@
 # hell world
-> https://rodfer.cloud/blog/
+> https://rodfer.cloud/blog
