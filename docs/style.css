@@ -1,8 +1,13 @@
 body {
     background-color: #3c3c3c;
+    color: #c1fca6;
+    width: 100%;
+    height: 100%;
+}
+
+div {
     margin-left: 30%;
     margin-top: 5%;
-    color: #c1fca6;
 }
 
 h1 {

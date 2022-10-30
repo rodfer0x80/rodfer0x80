@@ -1,3 +1,2 @@
-# rodfer.cloud 
-> https://rodfer.cloud/
+# blog.rodfer.cloud 
 > https://blog.rodfer.cloud/
