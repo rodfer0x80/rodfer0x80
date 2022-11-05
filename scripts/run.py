@@ -24,6 +24,7 @@ class Serv(BaseHTTPRequestHandler):
 def main():
     host = 'localhost'
     port = 8080
+    print(f"[*] Serving on http://{host}:{port}/")
     httpd = HTTPServer((host,port),Serv)
     httpd.serve_forever()
     return 0
