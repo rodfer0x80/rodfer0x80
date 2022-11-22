@@ -1,2 +1,1 @@
-# blog.rodfer.cloud 
-> https://blog.rodfer.cloud/
+# https://rodfer0x80.github.io/ 
