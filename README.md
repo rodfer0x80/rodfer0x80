@@ -1,1 +1,3 @@
-# https://rodfer0x80.github.io/ 
+- https://rodfer.cloud/
+- https://blog.rodfer.cloud/
+- https://profile.rodfer.cloud/
