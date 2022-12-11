@@ -1,3 +1,2 @@
 - https://rodfer.cloud/
 - https://blog.rodfer.cloud/
-- https://profile.rodfer.cloud/
