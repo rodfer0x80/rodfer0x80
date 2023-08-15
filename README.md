@@ -1,4 +1,4 @@
-## things i like
+## README.md
 - Free Open Source Information
 - Adrenaline Driven Development
 - GNU+Linux or GNU with the linux kernel?
