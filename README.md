@@ -1,10 +1,10 @@
 ## things i like
 - Free Open Source Information
 - Adrenaline Driven Development
-- GNU+Linux
-- TPUs???
-- Zetaflops :)  _   _
-- Good Music    (0_^_0)
+- GNU+Linux or GNU with the linux kernel systemd?! Xdottroll
+- nuke the TPUs???
+- MORE zetaflops! :)
+- rapid?!
 - send cheats for the simulation pls
   
 ## Nodes
