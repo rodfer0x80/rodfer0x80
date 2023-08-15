@@ -5,7 +5,7 @@
 - nix the planet!
 - nuke the TPUs???
 - MORE zetaflops! :)
-- rapid?!
+- blue line go up
 - send cheats for the simulation pls
   
 ## Nodes
