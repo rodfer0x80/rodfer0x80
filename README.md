@@ -1,7 +1,7 @@
 ## things i like
 - Free Open Source Information
 - Adrenaline Driven Development
-- GNU+Linux or GNU with the linux kernel systemd?! Xdottroll
+- GNU+Linux or GNU with the linux kernel?
 - nuke the TPUs???
 - MORE zetaflops! :)
 - rapid?!
