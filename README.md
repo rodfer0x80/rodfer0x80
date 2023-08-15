@@ -5,7 +5,7 @@
 - TPUs???
 - zetaflops :)  _   _
 - goo music    (0_^_0)
-- cheats for the simulation
+- send cheats for the simulation
   
 ## Nodes
 - https://rodfer.cloud/
