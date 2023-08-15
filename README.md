@@ -3,9 +3,9 @@
 - Adrenaline Driven Development
 - GNU+Linux
 - TPUs???
-- zetaflops :)  _   _
-- goo music    (0_^_0)
-- send cheats for the simulation
+- Zetaflops :)  _   _
+- Good Music    (0_^_0)
+- send cheats for the simulation pls
   
 ## Nodes
 - https://rodfer.cloud/
